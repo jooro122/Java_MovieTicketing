@@ -1,0 +1,4 @@
+이클립스 - 컨트롤 + h
+jooho122 검색 -> 커넥션 아이디, 비밀번호 변경
+
+MovieTicketing.sql 커밋 후 실행
