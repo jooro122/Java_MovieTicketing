@@ -41,3 +41,5 @@
 ![KakaoTalk_20230717_144217197_10](https://github.com/jooro122/Java_MovieTicketing/assets/121988218/33456309-2f2b-45a4-b6ca-a15d89b67864)
 
 
+# 프로젝트 소개 PDF
+[Mproject_keynote.pdf](https://github.com/jooro122/Java_MovieTicketing/files/12066500/Mproject_keynote.pdf)
