@@ -42,4 +42,4 @@
 
 
 # 프로젝트 소개 PDF
-[Mproject_keynote.pdf](https://github.com/jooro122/Java_MovieTicketing/files/12066500/Mproject_keynote.pdf)
+* [Mproject_keynote.pdf](https://github.com/jooro122/Java_MovieTicketing/files/12066500/Mproject_keynote.pdf)
